@@ -65,3 +65,8 @@ allure serve allure-results
 
 🤝 Author: Ivanna
 Feel free to fork, explore, and contribute!
+
+### 📸 Sample Allure Report
+
+<img src="https://github.com/ivannamel/bookshelf-tests/assets/123456789/abcdef" width="100%">
+

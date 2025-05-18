@@ -1,3 +1,13 @@
+<div align="center">
+  <h1>📚 Bookshelf QA Automation Project</h1>
+  <p>UI + API тесты для сайта <a href="https://demoqa.com/books">DemoQA Book Store</a>, написанные на Python с использованием Selenium, Pytest и Allure</p>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
+  <img src="https://img.shields.io/badge/Selenium-Automation-green?logo=selenium">
+  <img src="https://img.shields.io/badge/Pytest-Framework-blueviolet">
+  <img src="https://img.shields.io/badge/API-Testing-orange">
+</div>
+
+
 # 📚 Bookshelf QA Automation Project
 
 This project contains automated tests for the public demo site [DemoQA Book Store](https://demoqa.com/books).  
